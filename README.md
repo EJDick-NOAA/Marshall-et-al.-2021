@@ -6,7 +6,9 @@ Marshall, D., M. Bode, M. Mangel, R. Arlinghaus, and E. Dick. 2021. Reproductive
 
 
 Code to run equilibrium age-structured model is in Slot_limits_and_hyperallometry_Fmsy_v4.R
+
 Example (not final) input file is parameter_file_global_stocks_v3.csv
 
 Code for per-recruit analyses is in SPR_deviations_with_YPR_and_max_selected_age.R
+
 Final input file is species_parameters.csv
