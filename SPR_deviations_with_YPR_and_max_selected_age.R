@@ -4,7 +4,7 @@
 #### INPUT PARAMETERS ####
 ##########################
 # set working directory and read in the data
-setwd('E:\\ejdick\\projects\\Science Policy Forum with Dustin and Marc')
+setwd('your/path/here')
 species.df <- read.csv('species_parameters.csv')
 
 # input species name, and code will pull relevant parameters
